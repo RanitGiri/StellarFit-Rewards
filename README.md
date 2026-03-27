@@ -23,6 +23,7 @@ StellarFit Rewards acts as a decentralized point ledger for physical activity.
 - **Cryptographic Authorization:** Utilizes Soroban's native `require_auth()` to ensure that only the wallet owner can log steps or trigger a reward claim, preventing malicious manipulation of accounts.
 - **Automated Milestone Verification:** Smart contract logic handles the verification of milestones (10k steps) and subsequent balance deductions without the need for a centralized server.
 - **Extensible Reward System:** Designed to be easily integrated with the Soroban Token Interface (`token::Client`) to mint standard Stellar assets as a reward in future iterations.
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/e2342a23-7962-4f99-bc70-b54653f7b4bc" />
 
 ## 🛠️ Getting Started (Development)
 
